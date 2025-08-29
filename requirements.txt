@@ -1,5 +1,6 @@
 fastapi
 uvicorn
 moviepy
-ffmpeg-python
-gtts
+pydantic
+python-multipart
+
