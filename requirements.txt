@@ -3,4 +3,6 @@ imageio==2.31.3
 imageio-ffmpeg==0.4.9
 numpy
 requests
+fastapi
+uvicorn
 
