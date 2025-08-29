@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+moviepy
+ffmpeg-python
+gtts
